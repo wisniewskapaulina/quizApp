@@ -1,1 +1,1 @@
-See LIVE https://wisniewskapaulina.github.io/quizApp/
+LIVE https://wisniewskapaulina.github.io/quizApp/
